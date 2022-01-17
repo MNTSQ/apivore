@@ -23,7 +23,7 @@ Gem::Specification.new do |s|
   s.add_development_dependency 'rake', '>= 10.3'
   s.add_development_dependency 'rspec-rails', '>= 3'
 
-  s.add_runtime_dependency 'actionpack', '>= 4'
-  s.add_development_dependency 'activesupport', '>= 4'
+  s.add_runtime_dependency 'actionpack', '>= 5'
+  s.add_development_dependency 'activesupport', '>= 5'
   s.add_development_dependency 'test-unit', '>= 3'
 end
